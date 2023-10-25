@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\and\\Desktop\\GeekBrains\\Learning_coding\\Lecture_1\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "C:\\Users\\and\\Desktop\\GeekBrains\\Learning_coding\\Lecture_1\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "c:\\Users\\and\\Desktop\\GeekBrains\\Learning_coding\\Lecture_1\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "C:\\Users\\and\\Desktop\\GeekBrains\\Learning_coding\\Lecture_1\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\and\\Desktop\\GeekBrains\\Learning_coding\\Lecture_1\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "C:\\Users\\and\\Desktop\\GeekBrains\\Learning_coding\\Lecture_1\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "c:\\Users\\and\\Desktop\\GeekBrains\\Learning_coding\\Lecture_1\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "C:\\Users\\and\\Desktop\\GeekBrains\\Learning_coding\\Lecture_1\\examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\and\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\and\\Desktop\\GeekBrains\\Learning_coding\\Lecture_1\\examples\\Example001_HelloConsole\\obj\\",
+        "outputPath": "C:\\Users\\and\\Desktop\\GeekBrains\\Learning_coding\\Lecture_1\\examples\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\and\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
         }
       }
     }
